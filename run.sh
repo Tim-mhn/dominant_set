@@ -1,0 +1,1 @@
+python submission/dominant.py public_dataset rep_answer
